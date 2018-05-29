@@ -1,12 +1,12 @@
-# Welcome to Kitura!
+# 欢迎来到Kitura！
 
-## What is Kitura?
+## 什么是Kitura?
 
-[Kitura](http://www.kitura.io) is a lightweight web development framework written in the [Swift programming language](https://swift.org). It was developed by a team at IBM and released as open source software under the [Apache 2.0 license](https://tldrlegal.com/license/apache-license-2.0-%28apache-2.0%29#summary) (the same as Swift itself) in early 2016.
+[Kitura](http://www.kitura.io) 是一个用[Swift编程语言](https://swift.org)编写的轻量级Web开发框架. 它是由IBM公司在2016年初开发，然后作为开源软件以[Apache 2.0 许可证](https://tldrlegal.com/license/apache-license-2.0-%28apache-2.0%29#summary) (Swift语言也采用此许可证)发布的。
 
-Though Kitura has received continued attention and promotion from Big Blue, Kitura hasn't quite caught the world on fire yet. Perhaps the world does not need Yet Another Web Framework. Even if you decide to use Swift to write your server-side application, Kitura has competition among other Swift web frameworks like Vapor and Perfect. That, and Kitura’s documentation is sort of all over the place, and of uneven quality and coverage among its various sister packages like Kuery (for database connectivity) and Kitura-TemplateEngine (for templating). Well, I can’t fix all those other problems, but I can fix that last one.
+尽管Kitura已经得到“深蓝”公司的持续重视和推动，Kitura至今还没有在全球范围内火起来。也许世界上已经不需要另一个Web框架了。即使你已经决定使用Swift来开发你的服务器端应用，Kitura仍然有其他竞争对手如Vapor和Perfect。此外，虽然Kitura的文档看起来到处都有，文档质量和覆盖面却参差不齐。
 
-## Why Kitura?
+## 为什么用Kitura?
 
 * Because Swift is a great programming language. Originally announced by Apple in 2014 to replace the aging, eternally-quirky Objective-C in the Apple ecosystem, it is modern, friendly, sleek, and fun.
 * Because it’s backed by IBM, who perhaps is second only to Apple in terms of adoption and promotion of Swift in the enterprise space. IBM provides Swift application hosting on their [cloud platform](https://www.ibm.com/cloud/) and is supporting it on their enterprise Linux and Unix operating systems like PowerLINUX and z/OS - seriously heavy iron stuff. IBM is likely to continue supporting Swift and Kitura for the foreseeable future.
