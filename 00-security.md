@@ -1,7 +1,6 @@
-# Security Notice
+# 安全提示
 
-Many of the code examples in this book involve taking user input and sending it back to the user’s client, such as a web browser, without first escaping it. (Escaping text involves converting “dangerous” characters or series of characters to safer before the text is sent to the client’s browser; the browser can then convert those escaped characters back to the characters they should represent before displaying the data.) This is a serious security vulnerability; such input should properly be escaped prior to being sent to a user. The most common exploit for web applications which do not properly escape user input before displaying it is called a cross-site scripting, or XSS, attack; basically, the attacker injects content in the page which causes a victim visiting that page to execute a bit of JavaScript which sends their cookie data for the site to the attacker, thus possibly allowing the attacker to gain control of the victim’s account.
-
-However, for the sake of simplicity and not distracting from the points the code samples are trying to demonstrate, few code samples in this book do proper escaping. Therefore, I suggest - I *insist* - that you do not execute any of these code samples on a server which is publicly accessible from the internet unless the port that your Kitura site is running on (8080, in these code samples) is properly firewalled. You should *especially* never run these code samples on a server which hosts other sites which may contain sensitive or valuable user data; I suggest only executing them on personal development machines.
-
-Thank you.
+本书中大量代码涉及到用户输入和发送至用户的客户端(如浏览器)，但是没有转义。本书为了代码简练和专注于讲解要点内容，有意不转义部分用户输入。
+这可能带来XSS跨站脚本攻击。
+请避免在公开的服务器上运行示例代码，否则可能产生安全风险。
+请务必留意，谢谢！
