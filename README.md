@@ -1,16 +1,17 @@
-# Kitura Until Dawn
+# Kitura Until Dawn 中文版
 
+### 通俗易懂的 Kitura Web开发框架入门
 ### A Comprehensive Introduction to the Kitura Web Development Framework
 
-This book is an introductory guidebook or tutorial for teaching existing Swift developers to develop web sites and services using the Kitura web framework. This version of the book covers Kitura 2 running on Swift 4.
+本书是帮助Swift开发者使用Kitura Web框架开发网站和服务的入门指导教程。此版采用Kitura2和Swift4。
 
-Kitura Until Dawn is available in a wide variety of formats. If you’re not currently reading this book in the manner that you would prefer, and/or the information within itc seems to be out of date, please check out the [Kitura Until Dawn web site](http://learnkitura.com/) for alternatives.
+Kitura Until Dawn 有多种电子版本(PDF/mobi/epub等)，你可以在[Kitura Until Dawn web site](http://learnkitura.com/)找到其他版本。
 
-## This Book is Free!
+## 本书是免费的！
 
-But if you find this or my other projects to be useful to you, please consider [sponsoring me on Patreon](https://www.patreon.com/NocturnalSolutions)! Your support will go a long way towards helping keep my work on these sorts of free projects financially viable.
+如果你觉得这个项目或者我的其他项目对你有帮助，请考虑[在Patreon上给我赞助](https://www.patreon.com/NocturnalSolutions)! 你的支持会帮助我在这些免费项目上走的更远。
 
-Kitura Until Dawn is still being written, and may, in fact, never be finished as Swift and Kitura continue to evolve. Feedback and bug reports are welcome! Please file an issue or pull request on [this book's GitHub project](https://github.com/NocturnalSolutions/KituraBook) or email the author at [contact@nocturnal.solutions](mailto:contact@nocturnal.solutions).
+Kitura Until Dawn 还没写完，事实上，它永远无法写完因为Swift和Kitura在不断更新。欢迎提交反馈和汇报Bug！请发起issue或者pull request在[这本书的GitHub页面](https://github.com/NocturnalSolutions/KituraBook) 或者给作者发送email [contact@nocturnal.solutions](mailto:contact@nocturnal.solutions).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">![CC license badge](images/cc-badge.png)</a>   
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
