@@ -1,16 +1,16 @@
-# Chapter 1: Hello World
+# 第1章：Hello World
 
-Let’s create a classic [Hello World](http://www.catb.org/jargon/html/H/hello-world.html) example.
+让我们一起来创建 [Hello World](http://www.catb.org/jargon/html/H/hello-world.html) 示例。
 
-First, install Swift and get it running. On your system, you should be able to type `swift` into a terminal window to start up the Swift REPL. (Press Control-D to exit the REPL.) Hopefully you already have this up and running, but if not, here’s some guidance.
+首先，安装Swift。你应该能够在终端中执行`swift` 来进入Swift REPL。 (按 Control-D 退出 REPL)
 
-## On MacOS
+## 使用MacOS
 
-If you’re on a macOS system, installing Apple’s full-featured Xcode IDE from the App Store should be all you need to do. (It’s not necessary to use Xcode to edit Swift code on your Mac, but when you install Xcode, the Swift binaries and other software development goodies will come along for the ride.)
+如果你用的是macOS系统，安装Xcode就足够了。你可以不用Xcode来修改代码，只是当你安装好Xcode，Swift工具也一起安装好了。这是最省事的方法。
 
-## On Linux
+## Linux
 
-On Ubuntu Linux, install the following packages using `apt-get install`:
+在Ubuntu中，使用 `apt-get install`安装:
 
 * `clang`
 * `python-dev`
@@ -18,7 +18,7 @@ On Ubuntu Linux, install the following packages using `apt-get install`:
 * `libcurl4-openssl-dev`
 * `libssl-dev`
 
-Then [download Swift](https://swift.org/download/) and unpack it to a convenient place on your system. See the [Installing Swift](https://swift.org/getting-started/#installing-swift) page on the official Swift site for more info.
+然后 [下载 Swift](https://swift.org/download/)并解压到任意合适的位置. 参考Swift官网的 [Installing Swift](https://swift.org/getting-started/#installing-swift) 来获取更多信息。
 
 ## Starting a New Project
 

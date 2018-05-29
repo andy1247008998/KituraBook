@@ -1,7 +1,8 @@
 # Summary
 
+* [引言](README.md)
 * [Security Notice](00-security.md)
-* [Welcome to Kitura!](0-welcome.md)
+* [欢迎来到Kitura！](0-welcome.md)
 * [1: Hello World](1-hello-world.md)
 * [2: Ins and Outs of RouterRequest and RouterResponse](2-routerrequest-routerresponse.md)
 * [3: Routers](3-routers.md)
@@ -11,6 +12,7 @@
 * [7: Templating with Stencil](7-templating.md)
 * [8: Form Formalities](8-forms.md)
 * [9: User Sessions and Authentication](9-users.md)
-* [Appendix A: Cross-Platform Swift for Cocoa Developers: What to Learn (And Unlearn)](appendices/a-savvy-devs.md)
+* [Appendix A: Cross-Platform Swift for Cocoa Developers: What to Learn \(And Unlearn\)](appendices/a-savvy-devs.md)
 * [Appendix B: Swift Package Manager Basics](appendices/b-spm.md)
 * [Appendix C: Kuery with MySQL](appendices/c-mysql.md)
+

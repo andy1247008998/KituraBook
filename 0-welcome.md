@@ -8,13 +8,13 @@
 
 ## 为什么用Kitura?
 
-* Because Swift is a great programming language. Originally announced by Apple in 2014 to replace the aging, eternally-quirky Objective-C in the Apple ecosystem, it is modern, friendly, sleek, and fun.
-* Because it’s backed by IBM, who perhaps is second only to Apple in terms of adoption and promotion of Swift in the enterprise space. IBM provides Swift application hosting on their [cloud platform](https://www.ibm.com/cloud/) and is supporting it on their enterprise Linux and Unix operating systems like PowerLINUX and z/OS - seriously heavy iron stuff. IBM is likely to continue supporting Swift and Kitura for the foreseeable future.
-* As Swift is a compiled language, web applications written in Kitura will generally run much faster than those written in scripting languages like PHP, Python, Perl, or Ruby (though things like opcode caches for those languages can close the gap when used).
+* 因为Swift是一个极好的编程语言。苹果在2014年发布它来取代古老的Objective-C。Swift具备现代、友好、流畅、有趣的特点。
+* 因为Kitura背后的IBM公司，大概是除了苹果之外，最积极采用和推进Swift的企业。IBM自己的[云平台](https://www.ibm.com/cloud/)专门为Swift应用提供支持，并且在它自家的企业级Linux和Unix操作系统如PowerLINUX和z/OS提供支持。IBM在可预见的未来将会持续支持Swift和Kitura的发展。
+* 因为Swift是一种编译型语言，使用Kitura的Web应用通常会比那些脚本语言如PHP、Python、Perl、Ruby跑得更快。
 
-## Why Not Kitura?
+## 为什么不用Kitura?
 
-* Because Kitura and Swift in general is still rather new, you may occasionally run into libraries and such which do not yet have great Swift support. While this isn’t such a problem if you’re the type that doesn’t mind writing code to integrate Swift with C or C++ libraries (and I’m definitely not one of those people), it’s still more work to do.
+* 因为Kitura和Swift总的来说还是太年轻，你可能遇到需要的库没有对应的Swift版本。即使你可能不介意自己写代码来集成C或者C++库，那也需要大量的工作。
 * Kitura is a very low-level framework, along the lines of Laravel or Ruby on Rails, so while it’s very quick to implement something like a REST interface that provides JSON responses for consumption by, say, a client app on iOS, building something like a blog will take considerably more work than it would using a more full-featured web framework or content management system like WordPress, Drupal, or Alfresco. That being said, building full-featured web sites with Kitura is certainly possible, as later examples in this book will show.
 * Because compiling Swift code is currently not widely supported outside of macOS, Ubuntu Linux, and the IBM operating systems mentioned above. Most notably, Windows support is missing, and I sincerely hope there are some people from Apple and/or Microsoft and/or IBM working on that. There are *unofficial* ports of Swift to Windows and other Linux flavors, as well as FreeBSD, but your mileage may vary on the effectiveness of these systems.
 
