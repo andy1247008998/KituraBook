@@ -13,7 +13,7 @@ Kitura Until Dawn 有多种电子版本(PDF/mobi/epub等)，你可以在[Kitura 
 
 Kitura Until Dawn 还没写完，事实上，它永远无法写完因为Swift和Kitura在不断更新。欢迎提交反馈和汇报Bug！请发起issue或者pull request在[这本书的GitHub页面](https://github.com/NocturnalSolutions/KituraBook) 或者给作者发送email [contact@nocturnal.solutions](mailto:contact@nocturnal.solutions).
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">![CC license badge](images/cc-badge.png)</a>   
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh/">![CC license badge](images/cc-badge.png)</a>   
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 Copyright, such as it is, by Nocturnal, 2017-2018. If you paid any money for this book, then we *both* got cheated. Kitura may or may not be a trademark of International Business Machines, with whom I have no affiliation.
